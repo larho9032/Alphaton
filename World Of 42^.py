@@ -29,6 +29,6 @@ while game:
 				prestige1 = 1
 				prestige2 += 1
 				
-	limit = 42*prestige2
+	limit = 42**prestige2
 	
 	os.system("cls" if os.name == "nt" else "clear")
