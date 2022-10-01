@@ -184,7 +184,7 @@ while use:
 							ints[id] = carry
 							
 						if char2 == "c":
-							cell_count = int(input("\nEnter a cell limit >"))
+							cell_count = int(input("\nEnter a new cell count >"))
 			
 							ints = [value] * cell_count
 						
